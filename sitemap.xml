@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://shraddhaprasad.github.io/miniassignment1/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://shraddhaprasad.github.io/miniassignment1/</loc>
+</url>
+<url>
+<loc>https://shraddhaprasad.github.io/miniassignment1/meet-shraddha.html</loc>
+<lastmod>2022-10-23T14:51:35-07:00</lastmod>
+<image:image>
+<image:loc>https://shraddhaprasad.github.io/miniassignment1/media/posts/2/IMG_8622-2.JPG</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://shraddhaprasad.github.io/miniassignment1/media/posts/2/IMG_8638.JPG</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://shraddhaprasad.github.io/miniassignment1/media/posts/2/puzzle.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://shraddhaprasad.github.io/miniassignment1/meet-the-polar-bears.html</loc>
+<lastmod>2022-10-23T14:48:42-07:00</lastmod>
+</url>
+<url>
+<loc>https://shraddhaprasad.github.io/miniassignment1/welcome-to-shraddhas-assignment.html</loc>
+<lastmod>2022-10-23T13:37:16-07:00</lastmod>
+</url>
+</urlset>

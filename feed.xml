@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Shraddha&#x27;s Polar Bears</title>
+    <link href="https://shraddhaprasad.github.io/miniassignment1/feed.xml" rel="self" />
+    <link href="https://shraddhaprasad.github.io/miniassignment1" />
+    <updated>1969-12-31T16:00:00-08:00</updated>
+    <author>
+        <name>Shraddha Prasad</name>
+    </author>
+    <id>https://shraddhaprasad.github.io/miniassignment1</id>
+
+</feed>
